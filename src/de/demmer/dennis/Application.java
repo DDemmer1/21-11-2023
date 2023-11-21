@@ -33,9 +33,13 @@ public class Application {
 		
 		// ---do while ---
 		
+		int x = 0;
+		
 		do {
 			System.out.println("Do while");
-		} while(5 < 10);
+			
+			x = x + 1;
+		} while(x < 5);
 		
 		
 		
