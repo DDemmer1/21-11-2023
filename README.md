@@ -1,5 +1,5 @@
-# 23-11-2021
-Übungsaufgabe vom 23.11.2021 für die Studierenden des Java I Seminars der Universität zu Köln
+# 21-11-2023
+WS23 - Schleifen
 
 
 ### 📝 Aufgabe:
